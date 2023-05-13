@@ -10,6 +10,8 @@
   <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=blue"></a>
   <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white"></a>
   <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=plastic&logo=PyCharm&logoColor=yellow"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white"></a>
+  <a href="#"><img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=plastic&logo=GNU%20Bash&logoColor=black"></a>
   
  </p>
   
