@@ -18,10 +18,15 @@
   <a href="#"><img alt="Poetry" src="https://img.shields.io/badge/-Poetry-%2360A5FA?logo=poetry&style=plastic&color=black"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-E44C30?style=plastic&logo=git&color=black"></a>
   <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-E44C30?style=plastic&logo=GNU%20Bash&color=black"></a>
+  <a href="#"><img alt="PyTest" src="https://img.shields.io/badge/PyTest-E44C30?style=plastic&logo=PyTest&color=black"></a>
+  <a href="#"><img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-E44C30?style=plastic&logo=githubactions&color=black"></a>
+  <a href="#"><img alt="HTML5" src"https://img.shields.io/badge/HTML-E44C30?style=plastic&logo=html5&color=black"></a>
+  <a href="#"><img alt="CSS3" src"https://img.shields.io/badge/CSS-E44C30?style=plastic&logo=css3&color=black&logoColor=blue"></a>
+  <a href="#"><img alt="Flake8" src="https://img.shields.io/badge/flake8-E44C30?style=plastic&color=black"></a>
+  <a href="#"><img alt="Code Climate" src="https://img.shields.io/badge/Code%20Climate-E44C30?style=plastic&color=black&logo=codeclimate"></a>
  </p>
  
   ## And here's what I'm going to study or already learning :pencil2::
-  
   <p>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white"></a>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=blue"></a>
