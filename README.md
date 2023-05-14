@@ -14,7 +14,7 @@
 <p>
   <a href="#"><img alt="Linux Mint" src="https://img.shields.io/badge/-Linux%20Mint-%23F05032?logo=linux-mint&color=black&style=plastic"></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/-Python-%23F05032?logo=python&color=black&style=plastic"></a>
-  <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/-PyCharm-%23F05032?logo=PyCharm&color=black&style=plastic"></a>
+  <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/-PyCharm-%23F05032?logo=PyCharm&color=black&style=plastic&logoColor=yellow"></a>
   <a href="#"><img alt="Poetry" src="https://img.shields.io/badge/-Poetry-%2360A5FA?logo=poetry&style=plastic&color=black"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-E44C30?style=plastic&logo=git&color=black"></a>
   <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-E44C30?style=plastic&logo=GNU%20Bash&color=black"></a>
