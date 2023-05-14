@@ -5,7 +5,7 @@
 ## You can contact me:
 <ul>
   <li><a href="#"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-%2326A5E4?logo=telegram&style=plastic"></a>  ----> @Spacewalrus7</li>
-  <li><a href="#"><img alt="Mail.ru" src="https://img.shields.io/badge/-Mail.ru-%23005FF9?logo=maildotru&style=plastic"></a>  ----> spacewalrus@bk.ru</li>
+  <li><a href="#"><img alt="Mail.ru" src="https://img.shields.io/badge/-Mail.ru-%23005FF9?logo=maildotru&style=plastic"></a>  ----> [spacewalrus@bk.ru](mailto:spacewalrus@bk.ru)</li>
   <li><a href="https://vk.com/spacewalrus7"><img alt="VK" src="https://img.shields.io/badge/-VK-%230077FF?logo=vk&style=plastic"></a></li>
   <li><a href="#"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23EA4335?logo=gmail&color=white&style=plastic"></a>  ----> spacewalrus73@gmail.com</li>  
 </ul>
