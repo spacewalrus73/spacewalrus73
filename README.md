@@ -4,11 +4,12 @@
 
 ## You can contact me:
 <ul>
-  <li><a href="#"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-%2326A5E4?logo=telegram&style=plastic"></a> ->@Spacewalrus7</li>
-  <a href="#"><img alt="Mail.ru" src="https://img.shields.io/badge/-spacewalrus@bk.ru-%23005FF9?logo=maildotru&style=plastic"></a>
-  <a href="https://vk.com/spacewalrus7"><img alt="VK" src="https://img.shields.io/badge/-VK-%230077FF?logo=vk&style=plastic"></a>
-  <a href="#"><img alt="Gmail" src="https://img.shields.io/badge/-spacewalrus73@gmail.com-%23EA4335?logo=gmail&color=white&style=plastic"></a>  
+  <li><a href="#"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-%2326A5E4?logo=telegram&style=plastic"></a>  ----> @Spacewalrus7</li>
+  <li><a href="#"><img alt="Mail.ru" src="https://img.shields.io/badge/-Mail.ru-%23005FF9?logo=maildotru&style=plastic"></a>  ----> spacewalrus@bk.ru</li>
+  <li><a href="https://vk.com/spacewalrus7"><img alt="VK" src="https://img.shields.io/badge/-VK-%230077FF?logo=vk&style=plastic"></a></li>
+  <li><a href="#"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23EA4335?logo=gmail&color=white&style=plastic"></a>  ----> spacewalrus73@gmail.com</li>  
 </ul>
+
 ## And here's what I already know :sunglasses:
 <p>
   <a href="#"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=plastic&logo=linux-mint&logoColor=white"></a>
