@@ -24,6 +24,7 @@
   <a href="#"><img alt="Code Climate" src="https://img.shields.io/badge/Code%20Climate-E44C30?style=plastic&color=black&logo=codeclimate"></a>
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?logo=github&style=plastic&color=black"></a>
   <a href="#"><img src="https://img.shields.io/badge/HTML-black?style=plastic&logo=html5&logoColor=orange"></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS-black?style=plastic&logo=css3&logoColor=blue"></a>
  </p>
  
   ## And here's what I'm going to study or already learning :pencil2::
