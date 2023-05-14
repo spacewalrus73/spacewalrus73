@@ -26,14 +26,8 @@
  
   ## And here's what I'm going to study or already learning :pencil2::
   <p>
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white"></a>
-    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=blue"></a>
-    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white"></a>
-  <a href="#"><img alt="HTML" src"https://img.shields.io/badge/-HTML-black?logo=html5&style=plastic"></a>
-  <a href="#"><img alt="CSS" src"https://img.shields.io/badge/CSS3-E44C30?style=for-the-badge&logo=css3&color=black&logoColor=blue"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/-Django-black?logo=django&style=plastic&color=black"></a>
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/-Flask-black?logo=flask&style=plastic&color=black"></a>
+    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=plastic&color=black"></a>
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-black?logo=docker&style=plastic&color=black"></a>
   </p>
-    
-  
-  
-  
-
