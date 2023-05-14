@@ -29,7 +29,7 @@
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white"></a>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=blue"></a>
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white"></a>
-  <a href="#"><img alt="HTML" src"https://img.shields.io/badge/HTML5-E44C30?style=flat&logo=html5&color=black"></a>
+  <a href="#"><img alt="HTML" src"https://img.shields.io/badge/-HTML-black?logo=html5&style=plastic"></a>
   <a href="#"><img alt="CSS" src"https://img.shields.io/badge/CSS3-E44C30?style=flat&logo=css3&color=black&logoColor=blue"></a>
   </p>
     
