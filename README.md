@@ -20,8 +20,8 @@
   <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-E44C30?style=plastic&logo=GNU%20Bash&color=black"></a>
   <a href="#"><img alt="PyTest" src="https://img.shields.io/badge/PyTest-E44C30?style=plastic&logo=PyTest&color=black"></a>
   <a href="#"><img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-E44C30?style=plastic&logo=githubactions&color=black"></a>
-  <a href="#"><img alt="HTML5" src"https://img.shields.io/badge/HTML5-E44C30?style=plastic&logo=html5&color=black"></a>
-  <a href="#"><img alt="CSS3" src"https://img.shields.io/badge/CSS3-E44C30?style=plastic&logo=css3&color=black&logoColor=blue"></a>
+  <a href="#"><img alt="HTML" src"https://img.shields.io/badge/HTML5-E44C30?style=plastic&logo=html5&color=black"></a>
+  <a href="#"><img alt="CSS" src"https://img.shields.io/badge/CSS3-E44C30?style=plastic&logo=css3&color=black&logoColor=blue"></a>
   <a href="#"><img alt="Flake8" src="https://img.shields.io/badge/flake8-E44C30?style=plastic&color=black&logo=python"></a>
   <a href="#"><img alt="Code Climate" src="https://img.shields.io/badge/Code%20Climate-E44C30?style=plastic&color=black&logo=codeclimate"></a>
  </p>
