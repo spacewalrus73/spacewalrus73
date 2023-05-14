@@ -13,11 +13,11 @@
 ## And here's what I already know :sunglasses:
 <p>
   <a href="#"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=plastic&logo=linux-mint&logoColor=white&color=black"></a>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=yellow&color=black"></a>
-  <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=plastic&logo=PyCharm&logoColor=yellow&color=black"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&color=black"></a>
+  <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=plastic&logo=PyCharm&color=black"></a>
   <a href="#"><img alt="Poetry" src="https://img.shields.io/badge/-Poetry-%2360A5FA?logo=poetry&style=plastic&color=black"></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&color=black"></a>
-  <a href="#"><img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=plastic&logo=GNU%20Bash&logoColor=white&color=black"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-E44C30?style=plastic&logo=git&color=black"></a>
+  <a href="#"><img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=plastic&logo=GNU%20Bash&color=black"></a>
  </p>
  
   ## And here's what I'm going to study or already learning :pencil2::
