@@ -3,7 +3,7 @@
 <p>I am interested in programming and dream to work in this field. Also interested in ML and neural networks. I like playing football, computer games and watching films. But mostly I study and code :)</p>
 ## You can contact me:
 <p>
-  <a href="@Spacewalrus7"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-%2326A5E4?logo=telegram&style=plastic"></a>
+  <a href="#"><img alt="Telegram" src="https://img.shields.io/badge/-@Spacewalrus7-%2326A5E4?logo=telegram&style=plastic"></a>
   <a href="spacewalrus@bk.ru"><img alt="Mail.ru" src="https://img.shields.io/badge/-Mail.ru-%23005FF9?logo=maildotru&style=plastic"></a>
   <a href="https://vk.com/spacewalrus7"><img alt="VK" src="https://img.shields.io/badge/-VK-%230077FF?logo=vk&style=plastic"></a>
   <a href="spacewalrus73@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23EA4335?logo=gmail&color=white&style=plastic"></a>  
